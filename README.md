@@ -34,9 +34,20 @@
 
 ---
 
+<!-- 👾 Animated Pacman Contribution Graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinchahar/ashwinchahar/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinchahar/ashwinchahar/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ashwinchahar/ashwinchahar/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashwinchahar&label=Devs%20checking%20my%20code&color=0d9488&style=flat-square" alt="Profile views" />
 </p>
+
+---
 
 <h3 align="center">📫 Connect with me</h3>
 
