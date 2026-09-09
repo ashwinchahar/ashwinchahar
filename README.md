@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">Full-Stack & Mobile App Engineer (I turn caffeine into Flutter widgets and backend APIs)</h3>
+<h3 align="center">Full-Stack & Mobile App Developer</h3>
 
 <p align="center">
-  <i>Based in India 🇮🇳 | Shipped to Google Play Store | Fueled by chai and surviving Android Gradle builds.</i>
+  <i>Building high-performance cross-platform apps and scalable cloud backends.</i>
 </p>
 
 <p align="center">
-  <strong>🚀 Live App: <a href="https://trippalapp.in">trippalapp.in</a> | 📱 Google Play: <a href="https://play.google.com/store/apps/details?id=com.trippal.app">TripPal on Play Store</a></strong>
+  <strong>🚀 Creator of <a href="https://trippalapp.in">TripPal</a> (AI Travel & Expense Planner on <a href="https://play.google.com/store/apps/details?id=com.trippal.app">Google Play</a>)</strong>
 </p>
 
 ---
 
-- **🚀 What I'm currently building:** [TripPal](https://trippalapp.in) — an AI-powered smart travel planner & group expense splitter so friends stop arguing about who owes whom for dinner.
-- **🤯 What I'm currently learning:** How many different SHA-1 fingerprints Google Play can invent before I lose my sanity.
-- **⚙️ My engineering philosophy:** *"If it compiles on the first try, something is definitely broken behind the scenes."*
-- **🎯 Secret superpower:** Building 3D interactive Earth globes and making Flutter animations run like butter on 120Hz displays.
+### ⚡ Quick Bytes
+- 📱 **What I'm building:** [TripPal](https://trippalapp.in) — an AI itinerary planner & group expense splitter built with Flutter, Node.js & PostgreSQL.
+- 🛠️ **What I do:** Turn complex real-world workflows into fast, fluid mobile experiences with robust offline-first backends.
+- ☕ **Fuel:** Chai, late-night debugging, and surviving Android Gradle builds.
 
 ---
 
-### 🛠️ Languages & Tools (The stuff I actually ship code with)
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -29,29 +29,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinchahar&label=Devs%20inspecting%20my%20code&color=0d9488&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashwinchahar&label=Devs%20checking%20my%20code&color=0d9488&style=flat-square" alt="Profile views" />
 </p>
-
-<!-- 🏙️ 3D Contribution Skyline -->
-<div align="center">
-  <h3>🏙️ 3D Contribution Skyline</h3>
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Ashwin's 3D Contribution Skyline" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinchahar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
-</div>
-
----
 
 <h3 align="center">📫 Connect with me</h3>
 
