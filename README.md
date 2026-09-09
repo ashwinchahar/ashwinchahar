@@ -39,7 +39,6 @@
   <img src="https://komarev.com/ghpvc/?username=ashwinchahar&label=Devs%20inspecting%20my%20code&color=0d9488&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- Optional Contribution Snake Animation (or GitHub Streak Stats below) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinchahar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
 </div>
@@ -52,7 +51,7 @@
   <a href="https://trippalapp.in" target="_blank">
     <img src="https://img.shields.io/badge/Visit_TripPal-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TripPal Website" />
   </a>
-  <a href="[https://linkedin.com/in/ashwinchahar](https://www.linkedin.com/in/ashwin-chahar-133a26356)/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashwin-chahar-133a26356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ashwinchahar17@gmail.com">
