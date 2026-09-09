@@ -39,6 +39,14 @@
   <img src="https://komarev.com/ghpvc/?username=ashwinchahar&label=Devs%20inspecting%20my%20code&color=0d9488&style=flat-square" alt="Profile views" />
 </p>
 
+<!-- 🏙️ 3D Contribution Skyline -->
+<div align="center">
+  <h3>🏙️ 3D Contribution Skyline</h3>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="Ashwin's 3D Contribution Skyline" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinchahar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
 </div>
@@ -54,7 +62,7 @@
   <a href="https://www.linkedin.com/in/ashwin-chahar-133a26356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ashwinchahar17@gmail.com">
+  <a href="mailto:contact@trippalapp.in">
     <img src="https://img.shields.io/badge/Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
