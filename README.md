@@ -52,10 +52,10 @@
   <a href="https://trippalapp.in" target="_blank">
     <img src="https://img.shields.io/badge/Visit_TripPal-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TripPal Website" />
   </a>
-  <a href="https://linkedin.com/in/ashwinchahar" target="_blank">
+  <a href="[https://linkedin.com/in/ashwinchahar](https://www.linkedin.com/in/ashwin-chahar-133a26356)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@trippalapp.in">
+  <a href="mailto:ashwinchahar17@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
