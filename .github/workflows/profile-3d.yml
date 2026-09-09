@@ -1,0 +1,31 @@
+name: Generate 3D Contribution City
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # Runs automatically every day
+  workflow_dispatch: # Allows manual run button
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate 3D Contribution Graphs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ashwinchahar
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "chore: update 3d contribution calendar" || exit 0
+          git push
